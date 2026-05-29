@@ -1,0 +1,7 @@
+s parameters are used for the analysis of following devices: microwave devices(isolator,coupler), RF circuit, antenna, waveguides , transmission lines
+At microwave frequency it is not possible to measure instantaneuos voltage and current.
+As frequency becomes high and wavelength becomes so low that it is comparable to the length of the circuit itself.
+Leading to sudden changes in signals making it hard to calculate and keep track of voltage and current.
+microwave devices have frequency dependent characteristics.
+H,Z,ABCD,Y are applicable at lower frequency
+then there's Sij= normalized output wave at ith port / normalized input at jth port
