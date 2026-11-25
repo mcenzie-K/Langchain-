@@ -1,7 +1,7 @@
 # Langchain-
 # 🤖 LangChain Chatbot with Persistent Memory
 
-A conversational AI chatbot built with LangChain and ChromaDB that remembers past conversations and retrieves relevant context using RAG (Retrieval-Augmented Generation).
+A conversational AI chatbot built with LangChain and ChromaDB that remembers past conversations and retrieves relevant context using RAG (Retrieval-Augmented Generation).  Here is the link of the hostedchatbot on streamlit you can now talk to Dr. sheldon cooper : https://sheldon-cooper-rkmembvy34mw4f3asxqe2a.streamlit.app/
 
 ## Features
 
